@@ -10,4 +10,6 @@ Squelette de projet android / phonegap / sencha avec intellj.
 
 `$ git submodule add https://github.com/nguillot/Phonegap-sencha-www.git assets/www`
 
+ * effectué un git commit pour enregistrer le sous module dans votre repository local
+ *
 
