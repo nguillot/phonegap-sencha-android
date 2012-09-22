@@ -223,6 +223,14 @@ gen/
 
  * remarque ensuite que seul les fichiers n'étant pas dans le gitignore sont ajouté, c'est bien ce que nous voulons:
 
- * nous allons maintenant commiterces fichiers dans le repository local:
+![Alt partage github avec IntellJ - 3](./images/partage-git-3.png)
+
+
+ * nous allons maintenant commiter ces fichiers dans le repository local:
+
+![Alt partage github avec IntellJ - 4](./images/partage-git-4.png)
+
+![Alt partage github avec IntellJ - 5](./images/partage-git-5.png)
+
 
 
