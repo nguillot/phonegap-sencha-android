@@ -232,5 +232,10 @@ gen/
 
 ![Alt partage github avec IntellJ - 5](./images/partage-git-5.png)
 
+ * il nous reste à pousser ces modifications dans notre github
 
+![Alt partage github avec IntellJ - 6](images/partage-git-6.png)
 
+![Alt partage github avec IntellJ - 7](images/partage-git-7.png)
+
+Le dernier écran liste les commit local, on remarque que j'en ai fait un de plus que vous!
